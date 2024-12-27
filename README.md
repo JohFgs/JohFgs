@@ -3,7 +3,8 @@
 # 👋 Hi, I'm Joh!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studing Computer Science at the School Leonardo Da Vinci, Brazil<br/>
-🎨 Making videos about programing [YouTube](https://www.youtube.com/@yJoh_)<br/>
+🎨 Making videos about Valorant [YouTube](https://www.youtube.com/@yJoh_)<br/>
+🌷 Watching K-Drama's on [Viki](https://viki.com/)<br/>
 💭 Currently learning about [Frida](https://Frida.Re)!<br/>
 
 # 💻 Tech Stack

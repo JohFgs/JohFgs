@@ -1,7 +1,7 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Joh!
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
+👩🏻‍💻 Software Engineer 15y<br/>
 👩🏻‍🎓 Studing Computer Science at the School Leonardo Da Vinci, Brazil<br/>
 🎨 Making videos about Valorant [YouTube](https://www.youtube.com/@yJoh_)<br/>
 🌷 Watching K-Drama's on [Viki](https://viki.com/)<br/>

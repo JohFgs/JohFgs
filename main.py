@@ -114,8 +114,8 @@ def main():
 
     \x1b[30;101mcontact:\x1b[0m
     --------------
-    \x1b[96mwebsite: \x1b[93mkyaru.cloud\x1b[0m
-    \x1b[96mdiscord: \x1b[93mrusthater62 \x1b[94m#visual basic\x1b[0m
+    \x1b[96mwebsite: \x1b[93mmeow.tech\x1b[0m
+    \x1b[96mdiscord: \x1b[93mjoh.fgs \x1b[94m#visual basic\x1b[0m
     """
     t.gen_prompt(1)
     prompt_col = t.curr_col
